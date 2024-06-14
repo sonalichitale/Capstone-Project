@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Credit_Json"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.008">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Create_Post_API"
+                time="3.008"
+                classname="Assignment.Assignment1">
+            </testcase>
+</testsuite>
